@@ -1,0 +1,17 @@
+{
+  "projectName": "samplenuxtgoogleauth",
+  "version": "3.0",
+  "frontend": "javascript",
+  "javascript": {
+    "framework": "vue",
+    "config": {
+      "SourceDir": "",
+      "DistributionDir": "dist",
+      "BuildCommand": "yarn run generate",
+      "StartCommand": "yarn start"
+    }
+  },
+  "providers": [
+    "awscloudformation"
+  ]
+}
